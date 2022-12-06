@@ -1,7 +1,7 @@
 # TempleTiler
 🖽 TempleTiler is a window tiling utility for TempleOS inspired by [darwintiler](https://github.com/simply-jos/darwintiler)
 
-![Tiling window example showing 2 windows in a 2x2 grid pattern. One window on the right hand side takes up 2 vertical squares, the other window in the bottom left corner takes up only one square, leaving one square in the upper left blank showing the background behind the windows](https://vgy.me/2SRYec.jpg)
+![Tiling window example showing 2 windows in a 2x2 grid pattern. One window on the right hand side takes up 2 vertical squares, the other window in the bottom left corner takes up only one square, leaving one square in the upper left blank showing the background behind the windows](https://bielsa.me/assets/image/temple-os/temple-tiler.png)
 
 ## Installing
 1. Copy all the HolyC files into a folder on your TempleOS PC
